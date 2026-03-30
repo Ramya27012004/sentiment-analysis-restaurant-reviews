@@ -36,4 +36,3 @@ This project focuses on analyzing customer reviews of restaurants and classifyin
 
 ---
 
-## 📂 Project Structure
